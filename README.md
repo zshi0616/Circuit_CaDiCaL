@@ -33,9 +33,11 @@ This project is a Circuit SAT solver built on top of the CaDiCaL solver, extendi
 | Original CaDiCaL Solver | src/         | --satsolver=3         | CNF        | ./cadical --satsolver=3 test.cnf |
 
 ## Reference
+```sh
 @misc{circuit_cadical,
   author       = {Tao, Mengxia and Cai, Yalun and Shi, Zhengyuan and Xu, Qiang},
   title        = {Circuit-CaDiCaL: Circuit SAT Solver Based on CaDiCaL},
   howpublished = {\url{https://github.com/cure-lab/Circuit_CaDiCaL}},
   year         = {2025},
 }
+```
